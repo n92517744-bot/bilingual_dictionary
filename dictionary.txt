@@ -1,0 +1,10 @@
+hello - привет
+cat - кошка
+book - книга
+red - красный
+friend - друг
+tree - дерево
+run - бегать
+light - свет
+water - вода
+day - день
